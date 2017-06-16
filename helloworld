@@ -1,0 +1,9 @@
+for i in range (1,21):
+	mul = i*15
+	mod = mul%7
+	if mod == 0 :
+		print " found ",mul
+
+		
+
+		
